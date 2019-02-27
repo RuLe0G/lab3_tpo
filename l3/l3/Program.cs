@@ -31,7 +31,7 @@ namespace L2
                         Console.WriteLine("a + b = {0}", a + b);
                         break;
                     case "4":
-                        Console.WriteLine("a - b = {0}", a - b);
+                        Console.WriteLine("a - b = {0}", a-b);
                         break;
                     case "5":
                         Console.WriteLine("a * b = {0}", a * b);
@@ -57,6 +57,6 @@ namespace L2
             Console.WriteLine("6. ");
             Console.WriteLine("esc. Выход");
         }
-
+    
     }
 }
