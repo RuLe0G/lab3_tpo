@@ -31,7 +31,7 @@ namespace L2
                        
                         break;
                     case "4":
-                       
+                        Console.WriteLine("a - b = {0}", a - b);
                         break;
                     case "5":
                        
