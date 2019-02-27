@@ -28,7 +28,7 @@ namespace L2
                         b = int.Parse(Console.ReadLine());
                         break;
                     case "3":
-                       
+                        Console.WriteLine("a + b = {0}", a + b);
                         break;
                     case "4":
                         Console.WriteLine("a - b = {0}", a - b);
